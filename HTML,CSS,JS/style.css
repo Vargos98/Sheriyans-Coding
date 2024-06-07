@@ -25,3 +25,8 @@ html,body{
   padding: 10px;
   color: yellow;
 }
+.image{
+  margin: 30px;
+  border: 2px solid yellow;
+  border-radius: 50vw;
+} 
