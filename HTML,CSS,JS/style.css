@@ -8,3 +8,10 @@ html,body{
   height: 100%;
 
 }
+.red{
+  margin: 30px;
+  padding: 30px;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
