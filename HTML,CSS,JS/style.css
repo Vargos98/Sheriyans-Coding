@@ -30,3 +30,21 @@ html,body{
   border: 2px solid yellow;
   border-radius: 50vw;
 } 
+
+.vid{
+  justify-content: center;
+  margin-left: 38%;
+  width: 400px;
+  height: 500px;
+  object-fit: contain;
+  background-position: center;
+  transition: 0.4s ease-in-out;
+  cursor: pointer;
+
+
+}
+
+.vid:hover{
+  scale: 1.2;
+
+}
